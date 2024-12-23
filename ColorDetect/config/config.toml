@@ -1,0 +1,24 @@
+[image_processing]
+resize_width = 1000 # goruntunun pixel genisligi
+resize_height = 1000 # goruntunun pixel boyu
+threshold = 127 # Esik degeri. x sayisinin ustunu 255 (beyaz) altını da 0 (siyah) yapar
+
+[colors]
+# Blue
+blue_lower = [75, 100, 100] # bastaki ton ortadaki doygunluk sondaki parlaklık
+blue_upper = [130, 255, 255]
+
+# Green
+green_lower = [38, 100, 100]
+green_upper = [75, 255, 255]
+
+# Red
+red_lower1 = [0, 50, 50]
+red_upper1 = [10, 255, 255]
+red_lower2 = [170, 50, 50]
+red_upper2 = [180, 255, 255]
+
+# Yellow
+
+yellow_lower = [22,100,100]
+yellow_upper = [38,255,255]

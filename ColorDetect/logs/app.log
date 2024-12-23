@@ -1,0 +1,4 @@
+2024-12-18 20:17:00.533 | INFO     | image_process:process_image:64 - Blue color could not detected.
+2024-12-18 20:17:00.533 | SUCCESS  | image_process:process_image:67 - Green color has been detected. Green pixels:48538
+2024-12-18 20:17:00.533 | SUCCESS  | image_process:process_image:73 - Red color has been detected. Red pixels:40486
+2024-12-18 20:17:00.533 | SUCCESS  | image_process:process_image:79 - Yellow color has been detected. Yellow pixels:8
